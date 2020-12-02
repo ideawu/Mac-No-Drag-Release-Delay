@@ -1,3 +1,8 @@
+## The Issue Has to be Fixed
+
+Drag TextEdit with 3-fingers, then release to stop dragging and meanwhile input text with keyboard, no text was input! Wait about 1 second, you can type in text normally.
+
+
 <div align="center">
 
 # No Drag Release Delay
